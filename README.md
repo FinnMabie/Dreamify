@@ -11,7 +11,7 @@ Finn Mabie, Nakul Nayar, Ian Gazich, Xavier Markowitz
 ## Project Goal:
 Colorizing grayscale images of Simpson characters using a GAN.
 
-## [Link to Medium Blog Post]()
+## [Link to Medium Blog Post](https://medium.com/@finnmabie19/colorizing-images-using-a-gan-b7b2a5fbd790)
 
 
 ## Package requirements
