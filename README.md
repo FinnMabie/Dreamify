@@ -14,9 +14,10 @@ Colorizing grayscale images of Simpson characters using a GAN.
 ## [Link to Medium Blog Post](https://medium.com/@finnmabie19/colorizing-images-using-a-gan-b7b2a5fbd790)
 
 ## [Link to Train Simpson Face Dataset](https://www.kaggle.com/datasets/kostastokis/simpsons-faces)
+Use the cropped subdirectory
 
 ## [Link to Test Simpson Face Dataset](https://www.kaggle.com/datasets/danielverdu/simpsons-vs-real-faces)
-
+Use the testB subdirectory
 
 ## Package requirements
 - numpy
