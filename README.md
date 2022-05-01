@@ -32,6 +32,6 @@ Colorizing grayscale images of Simpson characters using a GAN.
 
 
 ## References
--https://www.tensorflow.org/tutorials/generative/dcgan
--https://github.com/OvaizAli/Image-Colorization-using-GANs
--https://towardsdatascience.com/coloring-photos-with-a-generative-adversarial-network-a435c4403b5d
+- https://www.tensorflow.org/tutorials/generative/dcgan
+- https://github.com/OvaizAli/Image-Colorization-using-GANs
+- https://towardsdatascience.com/coloring-photos-with-a-generative-adversarial-network-a435c4403b5d
